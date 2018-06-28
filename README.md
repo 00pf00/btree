@@ -9,4 +9,5 @@ BtreeTest();
 
 ## Sequence test
 SequenceTest(); 
+
 SeqTest1() is no optimization and SeqTest2() is optimization with bitmap
